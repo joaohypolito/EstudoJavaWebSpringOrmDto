@@ -1,4 +1,4 @@
-package com.javaspringdto.user;
+package com.javaspringdto.user.user;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
